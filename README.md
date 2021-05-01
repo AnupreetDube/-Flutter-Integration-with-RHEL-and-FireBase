@@ -1,4 +1,4 @@
-![](untitled.png)
+![](Untitled.png)
 # Flutter Integration with RHEL and FireBase
 This repository contains the code for creating **Mobile App which can run Linux Commands and Retrieve their Output from FireStore**
 
